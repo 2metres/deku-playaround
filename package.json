@@ -16,5 +16,15 @@
   "bugs": {
     "url": "https://github.com/2metres/deku-playaround/issues"
   },
-  "homepage": "https://github.com/2metres/deku-playaround#readme"
+  "homepage": "https://github.com/2metres/deku-playaround#readme",
+  "devDependencies": {
+    "babel": "^6.5.2",
+    "babel-plugin-transform-react-jsx": "^6.8.0",
+    "babel-preset-es2015": "^6.9.0",
+    "babelify": "^7.3.0",
+    "browserify": "^13.0.1"
+  },
+  "dependencies": {
+    "deku": "^2.0.0-rc16"
+  }
 }
